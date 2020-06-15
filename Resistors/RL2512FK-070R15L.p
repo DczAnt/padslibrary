@@ -1,0 +1,12 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+
+RL2512FK070R15L RESC6332X65N I RES 2 1 0 0 0
+"Description" Surface_Mount_Chip_Resistor,_Thick_Film,_RL_Series,_0.15_ohm,_1_W,_1%,_2512_[6432_Metric]
+"PKG_TYPE" RESC6332X65N
+GATE 1 2 1
+RL2512FK070R15L
+1 0 L 1
+2 0 L 2
+
+*END*

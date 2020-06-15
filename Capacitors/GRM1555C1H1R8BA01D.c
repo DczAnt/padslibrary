@@ -1,0 +1,50 @@
+*PADS-LIBRARY-SCH-DECALS-V9*
+
+
+GRM1555C1H1R8BA01D 0 0 69 1 69 1 2 2 0 2 16
+"Default Font"
+"Default Font"
+0 150 0 0 70 7 "Default Font"
+REF-DES
+0 -200 0 0 70 7 "Default Font"
+PART-TYPE
+COPCLS 5 1 26 0
+0 75
+25 75
+25 -75.0732
+0 -75.0732
+0 75
+COPCLS 5 1 26 0
+75.0728 75
+100 75
+100 -75.0728
+75.0728 -75.0728
+75.0728 75
+T-100 0 0 0 -39 0 0 16 139 0 0 16 PIN_R0_U_L100
+P0 0 0 16 50 20 0 0 128
+T200 0 0 0 -39 0 0 18 -139 0 0 18 PIN_R180_U_L100
+P0 0 0 18 50 20 0 0 128
+
+PIN_R0_U_L100 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+100 0
+
+PIN_R180_U_L100 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-100 0
+
+*END*
