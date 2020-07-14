@@ -1,0 +1,88 @@
+*PADS-LIBRARY-SCH-DECALS-V9*
+
+
+NPN 0 0 69 1 69 1 2 11 1 3 16
+"Default Font"
+"Default Font"
+100 225 0 0 50 5 "Default Font"
+REF-DES
+100 175 0 3 50 5 "Default Font"
+PART-TYPE
+OPEN 2 6 26 -1
+-100 -100
+-100 -50
+OPEN 2 6 26 -1
+-100 -50
+-100 0
+OPEN 2 6 26 -1
+-100 0
+-100 50
+OPEN 2 6 26 -1
+-100 50
+-100 100
+OPEN 2 6 26 -1
+-100 0
+-200 0
+OPEN 2 6 26 -1
+-100 -50
+0 -125
+OPEN 2 6 26 -1
+0 -125
+0 -200
+OPEN 2 6 26 -1
+-100 50
+0 125
+OPEN 2 6 26 -1
+0 125
+0 200
+CLOSED 4 1 26 0
+0 -125
+-54 -113
+-25 -75
+0 -125
+CIRCLE 2 6 26 0
+-225 0
+125 0
+100 299 0 26 100 10 0 0 0 0 "Default Font"
+>ASM
+T-300 0 0 0 -39 0 0 16 139 0 0 16 PIN_R0_U_L100
+P0 0 0 16 50 20 0 0 128
+T0 -300 0 0 -39 0 0 16 0 139 0 16 PIN_R90_U_L100
+P0 0 0 16 50 20 0 0 128
+T0 300 0 0 -39 0 0 18 -0 -139 0 18 PIN_R270_U_L100
+P0 0 0 18 50 20 0 0 128
+
+PIN_R0_U_L100 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+100 0
+
+PIN_R90_U_L100 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+0 100
+
+PIN_R270_U_L100 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-0 -100
+
+*END*

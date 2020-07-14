@@ -1,0 +1,13 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+
+MMBT2222AM3T5G VMT3 I TRX 2 1 0 0 0
+"Description" NPN_General_Purpose_Transistor
+"PKG_TYPE" VMT3
+GATE 1 3 1
+NPN
+1 0 L 1
+2 0 L 2
+3 0 L 3
+
+*END*
